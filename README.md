@@ -2,7 +2,7 @@
 
 Fala Devs,
 
-Foi feito o desafio, e tentado desenvolver a authentication para validar o usuario.
+Foi feito o desafio, e eu tente desenvolver a authentication para validar o usuario.
 
 Porém, não obtive sucesso em finalizar.
 
